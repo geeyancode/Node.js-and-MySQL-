@@ -1,0 +1,25 @@
+{
+  "name": "node.js-and-mysql-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geeyancode/Node.js-and-MySQL-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geeyancode/Node.js-and-MySQL-/issues"
+  },
+  "homepage": "https://github.com/geeyancode/Node.js-and-MySQL-#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.16.4",
+    "inquirer": "^6.3.1",
+    "mysql": "^2.16.0"
+  }
+}
